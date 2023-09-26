@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\verituru2\verituru2\obj\Debug\verituru2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\verituru2\verituru2\obj\Debug\verituru2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\verituru2\verituru2\obj\Debug\verituru2.Form1.resources
+C:\Users\User\source\repos\verituru2\verituru2\obj\Debug\verituru2.Properties.Resources.resources
+C:\Users\User\source\repos\verituru2\verituru2\obj\Debug\verituru2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\verituru2\verituru2\obj\Debug\verituru2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\verituru2\verituru2\bin\Debug\verituru2.exe.config
+C:\Users\User\source\repos\verituru2\verituru2\bin\Debug\verituru2.exe
+C:\Users\User\source\repos\verituru2\verituru2\bin\Debug\verituru2.pdb
+C:\Users\User\source\repos\verituru2\verituru2\obj\Debug\verituru2.exe
+C:\Users\User\source\repos\verituru2\verituru2\obj\Debug\verituru2.pdb
